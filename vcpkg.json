@@ -1,0 +1,6 @@
+{
+  "dependencies": [
+    "gtest",
+    "range-v3"
+  ]
+}
